@@ -9,7 +9,7 @@
 
 <h3 align="center">Checkout my Personal Website:</h3>
 <p align="center">
-<a href="https://shanek.net" target="blank"><img align="center" src="[URL](https://user-images.githubusercontent.com/113257637/209742097-baec7935-d807-45ea-a131-34b6f5dcdc82.png)" alt="portfolio" height="30" width="40" /></a>
+<a href="https://shanek.net" target="blank"><img align="center" src="https://user-images.githubusercontent.com/113257637/209742225-8719e3cb-86f7-489c-922a-bced13644103.png" alt="portfolio" height="50" width="50" /></a>
 </p>
 
 <h3 align="center">Some Languages/Libraries/Tools that I Use:</h3>
