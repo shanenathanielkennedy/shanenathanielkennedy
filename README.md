@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+
+Languages and Tools:
+azure
+css3
+flask
+gcp
+git
+html5
+java
+linux
+mysql
+pandas
+python
+pytorch
+seaborn
+selenium
+sqlite
+tensorflow
 <!--
 **shanenathanielkennedy/shanenathanielkennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
